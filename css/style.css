@@ -557,7 +557,7 @@ footer {
 
   .nav-links {
     position: fixed;
-    top: 60px;
+    top: 55px;
     left: 0;
     right: 0;
     flex-direction: column;
