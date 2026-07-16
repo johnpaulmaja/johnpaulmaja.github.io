@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 
 test("test", async ({ page }) => {
-  await page.goto("http://127.0.0.1:5500/");
+  await page.goto("https://johnpaulmaja.github.io/");
   await page.getByRole("link", { name: "Skills" }).click();
   await page.getByRole("link", { name: "Experience" }).click();
   await page.getByRole("link", { name: "Education" }).click();
