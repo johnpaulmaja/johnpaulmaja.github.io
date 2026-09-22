@@ -1,0 +1,2 @@
+# Cloudflare bot protection returns 403 to link checkers; the page works in browsers.
+^https://seo-hacker\.net/
