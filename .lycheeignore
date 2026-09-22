@@ -1,0 +1,6 @@
+# Cloudflare bot protection returns 403 to link checkers; the page works in browsers.
+^https://seo-hacker\.net/
+# LinkedIn answers automated requests with status 999; the profile works in browsers.
+^https://www\.linkedin\.com/in/
+# lychee's TLS handshake fails against this server; the site works in browsers.
+^https://machucatile\.com/
